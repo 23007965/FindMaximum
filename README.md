@@ -28,14 +28,29 @@ def max_marks(marks):
 
 ii)	# To find the maximum marks using the list method max().
 ```Python
-
-
+''' 
+Program to find the maximum marks using the list method max().
+Developed by: P PARTHIBAN
+RegisterNumber: 23007965
+'''
+def max_marks(marks):
+    return max(marks)
 
 ```
 
 iii) # To find the maximum marks without using builtin functions.
 ```Python
-
+''' 
+Program to the maximum marks without using builtin functions.
+Developed by: P PARTHIBAN
+RegisterNumber: 23007965
+'''
+def max_marks(list1):
+    max=list1[0]
+    for i in list1:
+       if i>max:
+           max=i
+    return max
 
 
 ```
