@@ -64,7 +64,7 @@ def max_marks(list1):
 ## Output:
 ![Screenshot 2023-12-25 220057](https://github.com/23007965/FindMaximum/assets/138971238/90e519ad-1126-4250-808d-ad124e8e71e2)
 
-![Screenshot 2023-12-25 220057](https://github.com/23007965/FindMaximum/assets/138971238/c752e6be-01f9-4738-81bc-5fc2f129831f)
+![Screenshot 2023-12-25 221700](https://github.com/23007965/FindMaximum/assets/138971238/779738db-bace-4ac3-a3f8-46da12d0cfe5)
 
 ![Screenshot 2023-12-25 220146](https://github.com/23007965/FindMaximum/assets/138971238/7cc160cf-be0b-413c-8881-05178343c63d)
 
